@@ -1,0 +1,4 @@
+﻿  Нормальні алгоритми Маркова.cpp
+F:\GitHub\Алгоритми Маркова\Нормальні алгоритми Маркова\Нормальні алгоритми Маркова.cpp(9,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LINK : F:\GitHub\Алгоритми Маркова\x64\Debug\Нормальні алгоритми Маркова.exe not found or not built by the last incremental link; performing full link
+  Нормальні алгоритми Маркова.vcxproj -> F:\GitHub\Алгоритми Маркова\x64\Debug\Нормальні алгоритми Маркова.exe
